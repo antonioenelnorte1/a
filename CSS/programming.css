@@ -9,7 +9,7 @@
 
 .panel {
 	overflow: hidden;
-	background-image: url("a/programingImages/matrix.jpg");
+	background-image: url("../programingImages/matrix.jpg");
 	background-position: center;
 	background-size: cover;
 	color: azure;
