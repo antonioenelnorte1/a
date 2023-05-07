@@ -22,7 +22,7 @@ section {
   
   
 }
-#videos, #drawing {
+ #drawing {
   background-color: rgba(210, 234, 240, 0);
 }
 
@@ -43,7 +43,7 @@ h1 {
 }
 
 .gallery img,
-.gallery video {background-color: rgb(5, 5, 5);
+{background-color: rgb(5, 5, 5);
   max-width: 100%;
   max-height: 50rem;
   object-fit: cover;
