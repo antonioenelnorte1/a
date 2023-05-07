@@ -17,7 +17,7 @@ body {
 
 .about-me { 
   
-  background-image: url("/Images.index/aboutme.jpg"); 
+  background-image: url("../Images.index/aboutme.jpg"); 
  
 
   
@@ -26,13 +26,13 @@ body {
 }
 
 .designer {
-  background-image: url("/Images.index/des.jpg"); 
+  background-image: url("../Images.index/des.jpg"); 
   background-size:cover;
   background-attachment: scroll; 
 }
 
 .programmer {
-  background-image: url("/Images.index/programIMG.jpeg"); 
+  background-image: url("../Images.index/programIMG.jpeg"); 
 
   background-size: 100%; 
   background-attachment: fixed; 
@@ -81,7 +81,7 @@ p {
   .designer {
     
     height: 50rem;
-    background-image: url("/Images.index/disng.png"); 
+    background-image: url("../Images.index/disng.png"); 
     background-size:100vh 100vh;
     background-attachment: fixed; 
   }
@@ -115,7 +115,7 @@ p {
 
 /* Sun */
 .sun {
-  background-image: url('/Images.index/sadsun.png'); /* Replace with URL of your red Earth image */
+  background-image: url('../Images.index/sadsun.png'); /* Replace with URL of your red Earth image */
   background-size: cover;
   margin-top: 200px;
   width: 100px;
@@ -145,7 +145,7 @@ p {
 }
 
 .earth-blue {
-  background-image: url('/Images.index/wars.png'); /* Replace with URL of your red Earth image */
+  background-image: url('../Images.index/wars.png'); /* Replace with URL of your red Earth image */
   background-size: cover;
   width: 40px;
   height: 40px;
@@ -153,13 +153,13 @@ p {
 }
 
 .earth-green {
-  background-image: url('/Images.index/venus.png'); /* Replace with URL of your red Earth image */
+  background-image: url('../Images.index/venus.png'); /* Replace with URL of your red Earth image */
   background-size: cover;
   animation: earth-rotate-green 13s linear infinite;
 }
 
 .earth-red {
-  background-image: url('/Images.index/planet.png'); /* Replace with URL of your red Earth image */
+  background-image: url('../Images.index/planet.png'); /* Replace with URL of your red Earth image */
   background-size: cover;
   
   animation: earth-rotate-red 10s linear infinite;
