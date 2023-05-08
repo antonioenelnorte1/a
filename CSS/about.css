@@ -32,14 +32,14 @@ body {
 
 .programmer {
   background-image: url("../Images.index/programIMG.jpeg"); 
-  background-size: 100%; 
+  background-size: cover; 
   background-attachment: fixed; 
 }
 
 .content {
   text-align: center;
-  max-width: 800px;
-  padding: 50px;
+  max-width: 100vh;
+  padding: 20px;
   background-color: rgb(226, 239, 248);
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
@@ -59,8 +59,8 @@ h2 {
 
 @media screen and (max-width: 768px) {
   .section {
-    padding-top: 600px;
-    padding-bottom: 600px;
+    padding-top: 200px;
+    padding-bottom: 200px;
     
   }
  
@@ -85,7 +85,7 @@ h2 {
 
   .programmer {
     height: 50rem; 
-    background-size:contain;
+    
     background-attachment: fixed;   
     background-size:100vh 100vh;
   }
@@ -145,8 +145,7 @@ h2 {
 .earth-green {
   background-image: url('../Images.index/venus.png'); /* Replace with URL of your red Earth image */
   background-size: cover;
-  animation: earth-rotate-green 13s linear infinite;
-  
+  animation: earth-rotate-green 13s linear infinite; 
   margin-top: 60px;
 
 }
