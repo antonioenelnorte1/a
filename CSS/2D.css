@@ -9,10 +9,7 @@ body {
     background: linear-gradient(0deg, rgb(173, 207, 231) 0%, rgba(224,246,255,1) 100%);
 }
 
-main {
-  padding: 20px;
-  
-}
+
 
 section {
   margin-bottom: 100px;
@@ -30,7 +27,7 @@ section {
 h1 {
   font-size: 44px;
   margin: 20px;
-  padding: 10px;
+  padding: 5px;
 }
 
 .gallery {
@@ -51,13 +48,18 @@ h1 {
   padding: 10px;
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-  margin: 10px;
+ 
 }
 .gallery img {
   padding: 40px;
 }
 #ilustrator {
   object-fit: contain;
+}
+
+#swipe{
+  color:chocolate;
+  background-color: rgba(217, 241, 233, 0.469);
 }
 
 

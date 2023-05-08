@@ -9,7 +9,7 @@
 
 .panel {
 	overflow: hidden;
-	background-image: url("../programingImages/matrix.jpg");
+	background-image: url("/programingImages/matrix.jpg");
 	background-position: center;
 	background-size: cover;
 	color: azure;
@@ -20,11 +20,11 @@
 #panelLetters {	
 	margin: 0;
 	padding-top: 1.5rem;
-	font-size: 1.8rem;
+	font-size: 2.5rem;
 	width: 100rem;
 	position: relative;
 	animation-name: move-two;
-	animation-duration: 10s;
+	animation-duration: 7s;
 	animation-iteration-count: infinite;
 	animation-timing-function: linear;	
 }
@@ -48,11 +48,6 @@
     margin: 0 auto;
     padding: 50px 0;
 
-  }
-  .webTextContainer h2 {
-    font-size: 66px;
-    font-weight: bold;
-    margin-bottom: 20px;
   }
 
 
@@ -84,7 +79,6 @@
   }
   
   
-  
  
   
   img {
@@ -111,7 +105,6 @@
     .webside {
 		flex-direction: column; 
     }
-	
 	
 	
 
