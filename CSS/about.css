@@ -58,12 +58,8 @@ h2 {
   margin-bottom: 20px;
 }
 
-p {
-  font-size: 1.2rem;
-  line-height: 1.
-}
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 568px) {
   .section {
     padding-top: 800px;
     padding-bottom: 800px;
