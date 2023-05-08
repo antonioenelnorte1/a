@@ -21,7 +21,7 @@
             border-radius: 100%;
             position: relative;
             animation-name: move;
-            animation-duration: 1s;
+            animation-duration: 0.5s;
             animation-iteration-count: initial;
             animation-timing-function: linear;	
         }
