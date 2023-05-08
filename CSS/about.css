@@ -59,7 +59,7 @@ h2 {
 }
 
 
-@media screen and (max-width: 568px) {
+@media screen and (max-width: 768px) {
   .section {
     padding-top: 800px;
     padding-bottom: 800px;
