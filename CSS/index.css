@@ -5,7 +5,7 @@
  p  {
 	
 	text-align: left;
-	font-size: 2.5rem;
+	font-size: 1.5rem;
 	line-height: 1.5;
 	margin-bottom: 40px;
 	padding-left: 10px;
@@ -45,6 +45,7 @@
             align-items: center;
             box-shadow: 1vh 1vh 2vh rgba(0, 0, 0, 0.9);
             z-index: 9999;
+            
                
         }
 
@@ -56,7 +57,7 @@
         
         .menu a, .menubottom a {
             color: rgb(202, 0, 40);   
-            padding: 40px;
+            padding: 10px;
             text-decoration: none;
             font-size: 2rem;
             opacity: 0;
@@ -116,11 +117,11 @@
   .skills li {
     color: rgb(250, 246, 246);
     -webkit-text-stroke: 0.4px rgb(140, 34, 34);
-    margin-left: 10px;        
+    margin-left: 1px;        
     border-right: 1px solid rgb(247, 244, 244);
     padding: 0px 20px 0px 10px;
     list-style: none;
-    font-size: 2.5vh;  
+    font-size: 1rem;  
                   
   }
   
@@ -137,6 +138,7 @@
     }
     
     .skills li {
+      font-size: 1.5rem; 
       border-right: none;
       margin: 15px 17px;
       flex-basis: calc(40% - 50px);

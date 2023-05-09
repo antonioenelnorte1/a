@@ -25,7 +25,7 @@ section {
 
 
 h1 {
-  font-size: 44px;
+  font-size: 2rem;
   margin: 20px;
   padding: 5px;
 }
@@ -42,13 +42,20 @@ h1 {
 .gallery img
  {background-color: rgb(5, 5, 5);
   max-width: 100%;
-  max-height: 50rem;
+  max-height: 100vh;
   object-fit: cover;
   object-position: center;
   padding: 10px;
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
- 
+}
+.gallery video {
+  background-color: rgba(121, 106, 182, 0.488);
+  max-width: 100%;
+  max-height: 100vh;
+  object-fit: contain;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
 .gallery img {
   padding: 40px;
@@ -58,8 +65,10 @@ h1 {
 }
 
 #swipe{
-  color:chocolate;
+  color:rgb(210, 189, 30);
+  border-radius: 100px;
   background-color: rgba(217, 241, 233, 0.469);
+  
 }
 
 
