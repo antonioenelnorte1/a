@@ -37,8 +37,8 @@
           }
         }
 
-        .menu {
-          background: linear-gradient(169deg, #ffffff 10%, #ffffff 50%, #ffffff 90%);
+        .menu {background: linear-gradient(169deg, #000000 10%, #000000 50%, #000000 90%);
+
 
             display: flex;
             flex-direction: row;
@@ -57,7 +57,8 @@
         }
         
         .menu a, .menubottom a {
-            color: rgb(202, 0, 40);   
+           color: rgb(255, 255, 255);
+ 
             padding: 10px;
             text-decoration: none;
             font-size: 2rem;
