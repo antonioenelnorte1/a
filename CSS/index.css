@@ -95,7 +95,8 @@
         }                 
             /*when you pass the mouse over the link// a:focus is use for when the user pass over the link with the tab key.*/
             a:hover, a:focus, .menubottom a:hover{
-                color: rgb(255, 255, 255);
+                color: rgb(173, 216, 230); /* Light Blue color */
+
                 transform: translateY(-5px);
                 background-color: #ffffff13;
                 border-radius: 100px;
