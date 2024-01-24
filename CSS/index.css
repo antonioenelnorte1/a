@@ -37,7 +37,9 @@
           }
         }
 
-        .menu {background: linear-gradient(169deg, #000000 10%, #000000 50%, #000000 90%);
+        .menu {
+	background: #000000; /* Use this hex code for black */
+;
 
 
             display: flex;
