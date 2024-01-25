@@ -143,7 +143,7 @@
     }
     
     .skills li {
-      font-size: 0.5rem; 
+      font-size: 1.5rem; 
       border-right: none;
       margin: 15px 17px;
       flex-basis: calc(40% - 50px);
