@@ -5,7 +5,7 @@
  p  {
 	
 	text-align: left;
-	font-size: 1rem;
+	font-size: 0.5rem;
 	line-height: 1.5;
 	margin-bottom: 40px;
 	padding-left: 10px;
@@ -139,11 +139,11 @@
       
     }
     p {
-      font-size: 0.5rem;
+      font-size: 0.3rem;
     }
     
     .skills li {
-      font-size: 1rem; 
+      font-size: 0.5rem; 
       border-right: none;
       margin: 15px 17px;
       flex-basis: calc(40% - 50px);
