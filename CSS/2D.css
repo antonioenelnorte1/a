@@ -32,6 +32,9 @@ h1 {
   margin: 20px;
   padding: 5px;
 }
+p {
+      margin: 10px; /* You can adjust the value as needed */
+    }
 
 .gallery {
   margin-left: 20px;
